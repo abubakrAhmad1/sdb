@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>IT IS SMART DELIEVERY BOX PROJECT.!!</Text>
+      <Text>IT IS SMART DELIEVERY BOX PROJECT's BOILER PLATE CODE.!!</Text>
       <StatusBar style="auto" />
     </View>
   );
